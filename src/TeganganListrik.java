@@ -26,5 +26,6 @@ public class TeganganListrik {
         System.out.println("Tegangan listrik (V) adalah: " + tegangan + " volt");
 
         input.close();
+        System.out.println("hai");
     }
 }
